@@ -1,5 +1,3 @@
-# springbootA685D-
-springbootA685D 家电维修服务平台
 ## 源码问题查看主页咨询
 
 ### 一、关键词
